@@ -1,0 +1,5 @@
+{
+  "name": "Cô Hồng Vân AI - Nhạc sĩ tí hon",
+  "description": "Ứng dụng giáo dục âm nhạc thông minh dành cho học sinh THCS, giúp luyện tai nghe, tiết tấu, sáng tác và luyện hát với AI.",
+  "requestFramePermissions": ["microphone"]
+}
